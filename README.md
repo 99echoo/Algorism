@@ -1,2 +1,2 @@
-# SQL
-SQL 쿼리 연습 저장소입니다 !!
+# Algorism
+python, SQL 알고리즘 연습하는 곳입니다 !
